@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FH2UJ1CA9lyqazk6bkynYq6ZgUnNpWD+ZbfhcAY6LZJ+OgfDmK3zsH2qgAE6c8bDyNKug4qpUfXF73CPYtTiHg==",
+  "dgSpecHash": "Z4APewjuhTzo1n3d3wsGXbKfc+/+B/Sf6a9+TqGIzriJ5FUnUgQVyPciq39jyAmE6oG/9XF/kwHaeouZbGVW6A==",
   "success": true,
-  "projectFilePath": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\Manage.Web\\Manage.Web.csproj",
+  "projectFilePath": "D:\\xampp_8.0\\htdocs\\projects\\.Net-Microservice-Project\\Manage.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tasos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\gagastasos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

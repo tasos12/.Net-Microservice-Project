@@ -2616,19 +2616,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tasos\\.nuget\\packages\\": {}
+    "C:\\Users\\gagastasos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\Mango.Services.ProductsAPI\\Mango.Services.ProductsAPI.csproj",
+      "projectUniqueName": "D:\\xampp_8.0\\htdocs\\projects\\.Net-Microservice-Project\\Mango.Services.ProductsAPI\\Mango.Services.ProductsAPI.csproj",
       "projectName": "Mango.Services.ProductsAPI",
-      "projectPath": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\Mango.Services.ProductsAPI\\Mango.Services.ProductsAPI.csproj",
-      "packagesPath": "C:\\Users\\Tasos\\.nuget\\packages\\",
-      "outputPath": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\Mango.Services.ProductsAPI\\obj\\",
+      "projectPath": "D:\\xampp_8.0\\htdocs\\projects\\.Net-Microservice-Project\\Mango.Services.ProductsAPI\\Mango.Services.ProductsAPI.csproj",
+      "packagesPath": "C:\\Users\\gagastasos\\.nuget\\packages\\",
+      "outputPath": "D:\\xampp_8.0\\htdocs\\projects\\.Net-Microservice-Project\\Mango.Services.ProductsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tasos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gagastasos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2712,7 +2712,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

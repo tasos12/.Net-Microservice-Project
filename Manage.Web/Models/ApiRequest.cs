@@ -1,6 +1,6 @@
 ﻿using static Mango.Web.SD;
 
-namespace Manage.Web.Models
+namespace Mango.Web.Models
 {
     public class ApiRequest
     {

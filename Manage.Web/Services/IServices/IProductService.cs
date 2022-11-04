@@ -1,6 +1,6 @@
 ﻿using Mango.Web.Models;
 
-namespace Manage.Web.Services.IServices
+namespace Mango.Web.Services.IServices
 {
     public interface IProductService
     {

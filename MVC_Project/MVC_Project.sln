@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Front", "Front", "{F090007C-B2A9-4B88-BC55-618E98FCA9ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manage.Web", "..\Manage.Web\Manage.Web.csproj", "{8D1A2DEC-E570-4163-A9C7-B8BB30D40406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Web", "..\Manage.Web\Mango.Web.csproj", "{8D1A2DEC-E570-4163-A9C7-B8BB30D40406}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{2054CE68-95D8-4EFE-8D04-EEC989ECD0F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.ProductsAPI", "..\Mango.Services.ProductsAPI\Mango.Services.ProductsAPI.csproj", "{0291A91A-9E55-4806-A794-3FE9CCBFC29C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.ProductsAPI", "..\Mango.Services.ProductsAPI\Mango.Services.ProductsAPI.csproj", "{0291A91A-9E55-4806-A794-3FE9CCBFC29C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,12 +1,11 @@
-﻿using Manage.Web.Models;
-using Manage.Web.Services.IServices;
-using Mango.Web;
+﻿using Mango.Web;
 using Mango.Web.Models;
+using Mango.Web.Services.IServices;
 using Newtonsoft.Json;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace Manage.Web.Services
+namespace Mango.Web.Services
 {
     public class BaseService : IBaseService
     {
@@ -15,7 +14,7 @@ namespace Manage.Web.Services
 
         public BaseService(IHttpClientFactory httpClient)
         {
-            this.responseModel = new ResponseDto();
+            responseModel = new ResponseDto();
             this.httpClient = httpClient;
         }
 
@@ -34,7 +33,7 @@ namespace Manage.Web.Services
                 message.RequestUri = new Uri(apiRequest.Url);
                 client.DefaultRequestHeaders.Clear();
 
-                if(apiRequest.Data != null)
+                if (apiRequest.Data != null)
                 {
                     message.Content = new StringContent(JsonConvert.SerializeObject(apiRequest.Data), Encoding.UTF8, "application/json");
                 }
@@ -62,7 +61,7 @@ namespace Manage.Web.Services
 
                 return apiResponseDto;
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 var dto = new ResponseDto
                 {

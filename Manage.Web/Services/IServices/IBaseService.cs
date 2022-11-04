@@ -1,7 +1,6 @@
-﻿using Manage.Web.Models;
-using Mango.Web.Models;
+﻿using Mango.Web.Models;
 
-namespace Manage.Web.Services.IServices
+namespace Mango.Web.Services.IServices
 {
     public interface IBaseService : IDisposable
     {

@@ -1,8 +1,8 @@
-﻿using Manage.Web.Models;
+﻿using Mango.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Manage.Web.Controllers
+namespace Mango.Web.Controllers
 {
     public class HomeController : Controller
     {
