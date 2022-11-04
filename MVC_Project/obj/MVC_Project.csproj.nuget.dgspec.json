@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\MVC_Project\\MVC_Project.csproj": {}
+  },
+  "projects": {
+    "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\MVC_Project\\MVC_Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\MVC_Project\\MVC_Project.csproj",
+        "projectName": "MVC_Project",
+        "projectPath": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\MVC_Project\\MVC_Project.csproj",
+        "packagesPath": "C:\\Users\\Tasos\\.nuget\\packages\\",
+        "outputPath": "D:\\xampp8.0.1\\htdocs\\projects\\.NET Core Microservices\\MVC_Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tasos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
